@@ -1,0 +1,69 @@
+#zero {
+  margin-left: 10px;
+  height: 72.75px;
+  width: 150.5px;
+}
+
+#seven {
+  margin-left: 10px;
+  width: 72.75px;
+  height: 72.75px;
+}
+
+#four {
+  margin-left: 10px;
+  width: 72.75px;
+  height: 72.75px;
+}
+
+#one {
+  margin-left: 10px;
+  width: 72.75px;
+  height: 72.75px;
+}
+
+#calc-container {
+  border-radius: 5px;
+  background-color: lightgray;
+  border: 3px solid black;
+  width: 335px;
+  height: 450px;
+}
+
+input[type="text"] {
+  border: 1px solid black;
+  font-weight: 510;
+  font-size: 30px;
+  margin-top: 3.5px;
+  margin-bottom: 2.6px;
+  margin-left: 10px;
+  display: block;
+  width: 308px;
+  height: 55px;
+  background-color: #F5F5F5;
+}
+
+#C {
+  margin-left: 10px;
+  height: 72.75px;
+  width: 150.5px;
+}
+
+input[type="button"] {
+  font-weight: 510;
+  font-size: 30px;
+  color: white;
+  background-color: black;
+  width: 72.75px;
+  height: 72.75px;
+  margin: 1.5px;
+  border-color: gray;
+}
+
+#ednakvo {
+  margin: 1.5px;
+  width: 73.5px;
+  height: 150.5px;
+  background-color: #000;
+  position: absolute;
+}
